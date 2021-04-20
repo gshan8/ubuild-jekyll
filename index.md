@@ -34,7 +34,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: See Brands
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2021/04/20/roberto-cortese-f1i4in86nie-unsplash.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
