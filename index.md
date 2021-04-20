@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "#ERP"
-    link_text: ERP
+  - link: "#shopify"
+    link_text: Shopify
   - link: "/"
     link_text: Home
   - link: "#swap"
@@ -17,6 +17,8 @@ page_sections:
     link_text: Ecommerce
   - link: "#responsive"
     link_text: Payment Solutions
+  - link: "#ERP"
+    link_text: ERP
   - link: "#blocks"
     link_text: Say Hello
   cta:
