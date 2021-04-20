@@ -84,5 +84,10 @@ page_sections:
   block: footer-1
   content: Contact Us - hello@cherrygsm.com<br>You never know this hello might be
     start of something big
+menu:
+  main:
+    weight: 1
+    parent: home
+    title: Web Development
 
 ---
