@@ -17,7 +17,7 @@ page_sections:
     link_text: Payment Solutions
   - link: "#ERP"
     link_text: ERP
-  - link: "#blocks"
+  - link: "#home"
     link_text: 'Career '
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
