@@ -25,7 +25,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: eBuild <br><strong>design your store with CherryGSM</strong>
+  headline: CheeyGSM <br><strong>we</strong> <strong>design your store </strong>
   content: 'Cherry Global Supplier Management assist suppliers to pitch their product
     in the ecommerce world . We also assist startups to build brand to proved "Big
     Retailers" like Walmart , Target , Amazon , Michaels stores . '
