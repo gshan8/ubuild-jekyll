@@ -69,8 +69,8 @@ page_sections:
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/04/20/bath-towel-large.jpg"
-  caption: All Available Blocks
+  image: "/uploads/2021/04/20/marvin-meyer-syto3xs06fu-unsplash.jpg"
+  caption: Let's build future together
   slug: blocks
 - template: detail-content
   block: text-1
