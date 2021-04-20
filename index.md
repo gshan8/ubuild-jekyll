@@ -25,8 +25,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>CheeyGSM</strong> <br><strong>we</strong> <strong>design your
-    store </strong>"
+  headline: "<strong>CherryGSM</strong> <br><strong>design with us</strong>"
   content: 'Cherry Global Supplier Management assist suppliers to pitch their product
     in the ecommerce world . We also assist startups to build brand to proved "Big
     Retailers" like Walmart , Target , Amazon , Michaels stores . '
