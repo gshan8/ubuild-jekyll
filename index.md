@@ -12,7 +12,7 @@ page_sections:
   - link: "#swap"
     link_text: Web Development
   - link: "#customize"
-    link_text: Customize
+    link_text: Ecommerce
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
