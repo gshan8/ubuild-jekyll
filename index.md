@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: Ecommerce
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Payment Solutions
   - link: "#blocks"
     link_text: Blocks
   cta:
