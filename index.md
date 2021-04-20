@@ -16,7 +16,7 @@ page_sections:
   - link: "#responsive"
     link_text: Payment Solutions
   - link: "#blocks"
-    link_text: Blocks
+    link_text: Say Hello
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
