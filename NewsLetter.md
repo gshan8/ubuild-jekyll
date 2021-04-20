@@ -5,3 +5,4 @@ email_recipient: shanti_gupta@outlook.com
 published: false
 
 ---
+Join CheeyGSM Retail News
