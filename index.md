@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#swap"
+  - link: "#home"
     link_text: Web Development
   - link: "#customize"
     link_text: Ecommerce
