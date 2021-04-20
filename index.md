@@ -86,8 +86,8 @@ page_sections:
     start of something big
 menu:
   main:
-    weight: 1
+    weight: 2
     parent: home
-    title: Web Development
+    title: E-commerce
 
 ---
