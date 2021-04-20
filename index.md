@@ -87,7 +87,6 @@ page_sections:
 menu:
   main:
     weight: 2
-    parent: home
     title: E-commerce
 
 ---

@@ -6,8 +6,7 @@ content: "<p>Web DevelopmentWeb DevelopmentWeb DevelopmentWeb DevelopmentWeb Dev
   DevelopmentWeb DevelopmentWeb Development</p>"
 menu:
   main:
-    weight: 1
-    parent: home
+    weight: 3
     title: Web Development
 published: false
 
